@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hi"
+title: "Hi. my name is yulmukim"
 date: 2020-11-17
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
