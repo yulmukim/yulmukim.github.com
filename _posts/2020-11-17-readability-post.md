@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hi. my name is yulmukim"
+title: "Hi. my name is yulmukim."
 date: 2020-11-17
-excerpt: "간단한 소개"
+excerpt: "간단한 소개."
 tags: [sample post, readability, test]
 comments: true
 ---
